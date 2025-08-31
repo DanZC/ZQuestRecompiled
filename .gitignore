@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+
+# config
+*.cfg
+
+# save file
+*.sav
+
+# quest files (except ones that come with zquest)
+*.qst
+!1st.qst
+!2nd.qst
+!3rd.qst
+!bstest.qst
+!demo.qst
